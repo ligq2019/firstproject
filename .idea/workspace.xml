@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25af2418-3b68-4bb8-9bc5-c620fce0d13a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Documents/work/maven-repository" />
+        <option name="mavenHome" value="$USER_HOME$/Documents/tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/tools/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internat" />
+  </component>
+  <component name="ProjectId" id="1dwzy5ksAprv0OOubulzOQZKPMv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25af2418-3b68-4bb8-9bc5-c620fce0d13a" name="Default Changelist" comment="" />
+      <created>1593351194931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593351194931</updated>
+      <workItem from="1593351201190" duration="518000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试20200629">
+      <created>1593351256068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593351256068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试20200629" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试20200629" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="23" width="833" height="797" key="CommitChangelistDialog2" timestamp="1593351255831">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="323" y="23" width="833" height="797" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1593351255831" />
+    <state x="140" y="162" width="1200" height="557" key="DiffContextDialog" timestamp="1593351388204">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="140" y="162" width="1200" height="557" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1593351388204" />
+    <state x="560" y="181" key="VcsDiffUtil.ChangesDialog" timestamp="1593351373792">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="560" y="181" key="VcsDiffUtil.ChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1593351373792" />
+  </component>
+</project>
